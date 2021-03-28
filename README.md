@@ -28,4 +28,17 @@ Example:
 ########
 </pre>
 
-## Output
+## Output:
+
+Output will contain a line of symbols.
+Meaning of each symbol:
+- "l" move left
+- "r" move right
+- "u" move up
+- "d" move down
+- "L" move left dragging a box
+- "R" move right dragging a box
+- "U" move up dragging a box
+- "D" move down dragging a box
+Example:
+lRulUUrdddddllllluuuurrrLLlddddrrrruulRRdlDDruuulllllddrrrLL
