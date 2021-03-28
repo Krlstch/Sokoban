@@ -14,6 +14,7 @@ Meaning of each symbol:
 - "*" storage location
 - "-" worker starting location
 - " " empty space
+
 Example:
 <pre>
 9 8
