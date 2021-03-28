@@ -40,5 +40,6 @@ Meaning of each symbol:
 - "R" move right dragging a box
 - "U" move up dragging a box
 - "D" move down dragging a box
+- 
 Example:
 lRulUUrdddddllllluuuurrrLLlddddrrrruulRRdlDDruuulllllddrrrLL
