@@ -1,4 +1,4 @@
-## Sokoban
+# Sokoban
 # Work still in progress 
 
 Program implementing algorithm for solving sokoban game
@@ -17,12 +17,12 @@ Meaning of each symbol:
 
 Example:
 9 8
-########
-#####  #
-#  *   #
-# ###  #
-#  OO -#
-# ###  #
-#  *   #
-#####  #
-########
+\#\#\#\#\#\#\#\#
+\#\#\#\#\#  \#
+\#  *   \#
+\# \#\#\#  \#
+\#  OO -\#
+\# \#\#\#  \#
+\#  *   \#
+\#\#\#\#\#  \#
+\#\#\#\#\#\#\#\#
