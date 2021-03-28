@@ -16,7 +16,8 @@ Meaning of each symbol:
 - " " empty space
 
 Example:
-9 8
+<pre>
+9 8 <br />
 \#\#\#\#\#\#\#\# <br />
 \#\#\#\#\#  \# <br />
 \#  *   \# <br />
@@ -26,3 +27,4 @@ Example:
 \#  *   \# <br />
 \#\#\#\#\#  \# <br />
 \#\#\#\#\#\#\#\# <br />
+</pre>
